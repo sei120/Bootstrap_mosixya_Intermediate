@@ -1,0 +1,10 @@
+.bg-image  {
+  background-image: url(/img/company.png);
+  height: 300rem;
+}
+
+.otame {
+  background-color: aquamarine; 
+  color: antiquewhite;
+  height: 1000000px;
+}
